@@ -4,7 +4,7 @@ Hey there! Ryan (@ryanlanciaux) and Joel (@joellanciaux) are excited to be showi
 
 ## [Start right here!](http://codepen.io/joellanciaux/pen/xVGYOw)
 
-All of the examples are in [CodePen](codepen.io), which is a good place to put together prototypes and share code, so we felt that it was a good fit.
+All of the examples are in [CodePen](http://codepen.io), which is a good place to put together prototypes and share code, so we felt that it was a good fit.
 
 Make an account, fork the examples and share what you build. We'd love to see what you make. :+1:
 
